@@ -23,7 +23,7 @@ Mirai 是一个在全平台下运行，提供 QQ Android 和 TIM PC 协议支持
 
 BiliLinkerRevise是一个基于Mirai框架的插件
 
-它基于Karlatemp(MoRain 墨雨橙)的 **[BiliBiliLinker](https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker/)** 进行二次开发的插件
+它基于Karlatemp(MoRain 墨雨橙)的 **[BiliBiliLinker](https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker/)** 进行二次开发
 <br>你也可以在这里找到它的源代码
 
 ## **一切开发旨在学习，请勿用于非法用途**
