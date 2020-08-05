@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/RuanJian/Android/MyProject/Eclipse/墨雨橙源码/jar/mirai-core-qqandroid-1.1.3.jar"/>
+	<classpathentry kind="lib" path="H:/RuanJian/Android/MyProject/Eclipse/墨雨橙源码/jar/mirai-console-1.0-dev-1.jar"/>
+	<classpathentry kind="lib" path="H:/RuanJian/Android/MyProject/Eclipse/墨雨橙源码/jar/mirai-console-wrapper-1.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/RuanJian/Android/MyProject/Eclipse/墨雨橙源码/jar/mirai-console-0.5.2.jar"/>
+	<classpathentry kind="lib" path="H:/RuanJian/Android/MyProject/Eclipse/墨雨橙源码/jar/gson-2.8.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

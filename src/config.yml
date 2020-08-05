@@ -1,0 +1,9 @@
+# 拒绝执行的群
+denyGroups: []
+# 拒绝执行的好友
+denyFriends: []
+
+#只允许执行的群(留空允许全部)
+onlyAllowsGroups: []
+#只允许执行的好友(留空允许全部)
+onlyAllowsFriends: []
