@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="160" src="https://gitee.com/rcraft/BiliLinkerRevise/raw/master/Img/mirai.png" alt="logo"></br>
+   <img width="160" src="https://gitee.com/rcraft/BiliLinkerRevise/raw/master/Img/mirai.png" alt="logo">
 
    <img width="95" src="https://gitee.com/rcraft/BiliLinkerRevise/raw/master/Img/mirai.svg" alt="title">
 
