@@ -40,7 +40,7 @@ BiliLinkerRevise是一个基于Mirai框架的插件
 
 在任意机器人所在的QQ群中发送以下内容
 
-- 来自b站的视频连接
+- 来自b站的视频连接(以m.bilibili开头的除外)
 - 以**av**开头的视频编号(aid)
 - 以**BV**开头的视频编号(bvid)
 

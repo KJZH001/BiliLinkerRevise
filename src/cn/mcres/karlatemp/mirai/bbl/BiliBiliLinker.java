@@ -131,7 +131,7 @@ public class BiliBiliLinker extends PluginBase {
                
                 //builder.add("分享>> " + stat.get("share") + "\n");
                // builder.add("不喜欢>> " + stat.get("dislike"));
-                builder.add("基于 BilibiliLinker by 墨雨橙 \n" 
+                builder.add("基于 BilibiliLinker by Karlatemp \n" 
                 		+ "二次开发 By 晓空" + " Based on Mirai 强力驱动");
                 event.getSubject().sendMessageAsync(builder.asMessageChain());
                 event.getSubject().sendMessageAsync("https://www.bilibili.com/video/" + data.get("bvid").getAsString());
